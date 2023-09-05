@@ -4,3 +4,13 @@ body{
 p #Santelmo{
     font-size: 42;
 }
+
+h1 { color: lightcoral; 
+border:  1px salmon;}
+h3{ color: coral;  font-family: "Times New Roman", Times, serif;margin:10px}
+
+.logo{
+   position: sticky; 
+   width: 70px;
+   height: 70px; 
+}
